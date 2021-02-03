@@ -1,2 +1,2 @@
-# C/C++
-A repository for C projects, both past and present 
+# C
+A repository for work in C 
